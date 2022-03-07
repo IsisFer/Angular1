@@ -1,0 +1,20 @@
+fieldset{
+border-radius: 20px;
+box-shadow: #5E5DF0 0px 10px 20px -10px;
+height: 500px;
+width: 500px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+padding-top: 50px;
+background-color: #efeaf0; ;
+
+border: 4px solid #51129e9f;
+}
+
+h1{
+
+text-align: center;
+
+}
